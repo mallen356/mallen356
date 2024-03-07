@@ -1,7 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Michael Allen</h1>
 <h3 align="center">Crafting Quality, Delivering Excellence: A QA Engineer's Journey</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l2Z2lzNTRndG1ma2cyc3djb3UwenZzaHk5ZTAwbDE1c2Fvd2xuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=0e75b6&style=flat" alt="mallen356" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=0e75b6&style=flat" alt="mallen356" /> </p>
 
 - 🌱 I’m currently learning **Ruby, and SQL**
@@ -14,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-allen356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-allen356/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michael-allen356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-allen356" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
