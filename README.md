@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**mallen356/mallen356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Michael Allen</h1>
+<h3 align="center">Crafting Quality, Delivering Excellence: A QA Engineer's Journey</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l2Z2lzNTRndG1ma2cyc3djb3UwenZzaHk5ZTAwbDE1c2Fvd2xuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=0e75b6&style=flat" alt="mallen356" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Ruby, and SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Testing Methodologies, Postman, Bug tracking techniques**
+
+- 📫 How to reach me **MikeAllen356@yahoo.com**
+
+- ⚡ Fun fact **I'm a retired collegiate athlete**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-allen356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-allen356/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mallen356&show_icons=true&locale=en&layout=compact" alt="mallen356" /></p>
