@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Allen</h1>
 <h3 align="center">Crafting Quality, Delivering Excellence: A QA Engineer's Journey</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l2Z2lzNTRndG1ma2cyc3djb3UwenZzaHk5ZTAwbDE1c2Fvd2xuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=0e75b6&style=flat" alt="mallen356" /> </p>
