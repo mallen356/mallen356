@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 💬 Ask me about **Testing Methodologies, Postman, Bug tracking techniques**
+- 💬 Ask me about **anything QA, football, or gaming!**
 
 - 📫 How to reach me **MikeAllen356@yahoo.com**
 
