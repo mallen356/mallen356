@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=0e75b6&style=flat" alt="mallen356" /> </p>
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **anything QA, football, or gaming!**
+- 💬 Ask me about **anything QA, football, or AI and Gaming!**
 
 - 📫 How to reach me **MikeAllen356@yahoo.com**
 
