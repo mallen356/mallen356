@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=0e75b6&style=flat" alt="mallen356" /> </p>
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **anything QA, football, or AI and Gaming!**
+- 💬 Ask me about **anything QA, AI, Gaming, or Sports!**
 
-- 📫 How to reach me **MikeAllen356@yahoo.com**
+- 📫 How to reach me **Michaelallen3567@gmail.com**
 
-- ⚡ Fun fact **I'm a retired collegiate athlete**
+- ⚡ Fun fact **I'm a former collegiate athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
