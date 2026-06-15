@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Michael Allen</h1>
 <h3 align="center">QA Engineer | Test Automation Specialist</h3>
 
+<p align="center">
+  <a href="https://mallen356.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0e75b6?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=0e75b6&style=flat" alt="mallen356" />
 </p>
@@ -20,13 +26,6 @@ Skilled in **Playwright (TypeScript/JavaScript)**, REST API validation, PostgreS
 - **Programming**: TypeScript, JavaScript, Python  
 - **DevOps**: GitLab CI/CD, Git  
 - **Other**: WCAG 2.1 AA Accessibility, Jira, AI Tools (Claude, Gemini, Copilot)
-
----
-
-### 📫 Let's Connect
-
-- **Email**: Michaelallen3567@gmail.com  
-- **LinkedIn**: [linkedin.com/in/michael-allen356](https://www.linkedin.com/in/michael-allen356)
 
 ---
 
@@ -56,6 +55,15 @@ Skilled in **Playwright (TypeScript/JavaScript)**, REST API validation, PostgreS
   </a>
 </p>
 
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/michael-allen356](https://www.linkedin.com/in/michael-allen356)
+- **Email**: Michaelallen3567@gmail.com  
+
+---
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mallen356&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mallen356" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mallen356&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mallen356" />
 </p>
