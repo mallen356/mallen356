@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer | Test Automation Specialist</h3>
 
 <p align="center">
-  <a href="https://mallen356.github.io/portfolio/" target="_blank">
+  <a href="https://mallen356.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0e75b6?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
 </p>
