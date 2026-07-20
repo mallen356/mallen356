@@ -15,7 +15,7 @@
 
 **QA Engineer** with 3+ years of hands-on experience in test automation, API testing, and CI/CD for enterprise web applications — including financial platforms.
 
-Skilled in **Playwright (TypeScript/JavaScript)**, REST API validation, PostgreSQL, and GitLab pipelines. Passionate about using AI tools to improve testing efficiency and software quality.
+Skilled in **Playwright (TypeScript/JavaScript)**, Python, REST API validation, PostgreSQL, and GitLab pipelines. Passionate about using AI tools to improve testing efficiency and software quality.
 
 ---
 
