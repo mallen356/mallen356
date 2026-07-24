@@ -1,13 +1,4 @@
-<h1 align="center">Hi, I'm Michael Allen</h1>
-<h3 align="center">QA Engineer | Test Automation Specialist | AI Automation Expert</h3>
-<p align="center">
-  <a href="https://mallen356.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-c9a84c?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=c9a84c&style=flat" alt="mallen356" />
-</p>
+<h1 align="center">Hi, I'm Michael Allen</h1> <h3 align="center">QA Engineer | Test Automation Specialist | AI Automation Expert</h3> <p align="center"> <a href="https://mallen356.github.io/Portfolio/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-c9a84c?style=for-the-badge&logoColor=white" alt="Live Portfolio" /> </a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=c9a84c&style=flat" alt="mallen356" /> </p>
 
 ---
 
