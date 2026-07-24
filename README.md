@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael Allen</h1>
 <h3 align="center">QA Engineer | Test Automation Specialist | AI Automation Expert</h3>
 <p align="center">
-  <a href="https://mallen356.github.io/Portfolio/" target="_blank">
+  <a href="file:///Users/michaelallen/Documents/Resume:Cover%20letter/Portfolio%20website.html" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-c9a84c?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
 </p>
@@ -81,6 +81,3 @@ Passionate about architecting scalable testing solutions that integrate **genera
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mallen356&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mallen356" />
-</p>
