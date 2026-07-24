@@ -30,6 +30,14 @@ Passionate about architecting scalable testing solutions that integrate **genera
 
 ---
 
+### 🎓 Certifications
+
+- **Python for Data Science, AI & Development** — IBM
+- **AI Automation Engineering Certification** — Jobescape
+- **QA Engineering Program** — TripleTen
+
+---
+
 ### 🧰 Languages and Tools
 
 <p align="left">
