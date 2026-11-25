@@ -51,8 +51,8 @@ Passionate about integrating **AI coding tools** (Claude, GitHub Copilot, Gemini
 - **My Role & Impact:**
   - Cut manual regression testing effort by **over 50%** by automating critical user journeys, cross-browser checks, and data-driven test scenarios.
   - Combined UI assertions with **REST API** (`Postman` / `curl`) and **PostgreSQL** backend verification to ensure end-to-end data integrity.
-  - Leveraged **AI coding workflows** (Claude, GitHub Copilot, GitLab Duo) and **n8n** to accelerate test script authoring and CI reporting.
-- **Tech Stack:** `Playwright` `TypeScript` `PostgreSQL` `Postman` `Docker` `Jenkins` `n8n`
+  - Leveraged **AI coding workflows** (Claude, GitHub Copilot, GitLab Duo) to accelerate test script authoring and CI reporting.
+- **Tech Stack:** `Playwright` `TypeScript` `Python` `node.js`
 
 ---
 
