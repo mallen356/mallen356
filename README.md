@@ -13,9 +13,9 @@
 
 ---
 
-**QA Engineer II & QA Automation Engineer (SDET)** with 3+ years of hands-on experience in hybrid manual and automated testing across enterprise web applications. Specialized in building and maintaining scalable **Playwright and TypeScript** UI, E2E, and regression suites integrated into **GitLab CI/CD** pipelines to gate merge requests and cut manual regression effort by over 50%.
+**QA Automation Engineer (SDET)** with 3+ years of hands-on experience in hybrid manual and automated testing across enterprise web and mobile applications. Specialized in building and maintaining scalable **Playwright** (web) and **Appium / WebdriverIO** (mobile) UI, E2E, and regression suites in **TypeScript**, integrated into **GitLab CI/CD** pipelines to gate merge requests and cut manual regression effort by over 50%.
 
-Skilled in **Python, Flask, PostgreSQL, and REST API validation** using Postman, `curl`, and Python `unittest`. Recently completed the **IBM AI Developer Professional Certificate**, building generative AI applications with Python/Flask REST endpoints and automated unit test suites.
+Skilled in **Python, Flask, PostgreSQL, Android Studio, and REST API validation** using Postman, `curl`, and Python `unittest`. Recently completed the **IBM AI Developer Professional Certificate**, building generative AI applications with Python/Flask REST endpoints and automated unit test suites.
 
 Passionate about integrating **AI coding tools** (Claude, GitHub Copilot, Gemini, GitLab Duo) and **n8n workflows** to accelerate test authoring and system orchestration, while championing **WCAG 2.1 AA & 2.2 accessibility compliance** across AEM properties and AI-powered accessibility tools.
 
@@ -45,24 +45,25 @@ Passionate about integrating **AI coding tools** (Claude, GitHub Copilot, Gemini
 
 ---
 
-#### **Enterprise Web & AEM Regression Automation Framework**
-*End-to-End UI, API & Database Validation*
-- **What it is:** A scalable test automation framework built to validate high-traffic enterprise web applications and Adobe Experience Manager (AEM) properties.
+#### **Enterprise Web, Mobile & AEM Regression Automation Framework**
+*Cross-Platform UI, Mobile, API & Database Validation*
+- **What it is:** A scalable cross-platform test automation framework built to validate high-traffic enterprise web applications, Adobe Experience Manager (AEM) properties, and mobile user flows.
 - **My Role & Impact:**
-  - Cut manual regression testing effort by **over 50%** by automating critical user journeys, cross-browser checks, and data-driven test scenarios.
+  - Cut manual regression testing effort by **over 50%** by automating critical web and mobile user journeys, cross-browser checks, and data-driven test scenarios.
+  - Developed mobile automated tests using **Appium, WebdriverIO, and TypeScript** executed against **Android Studio** virtual devices to validate native/mobile workflows.
   - Combined UI assertions with **REST API** (`Postman` / `curl`) and **PostgreSQL** backend verification to ensure end-to-end data integrity.
-  - Leveraged **AI coding workflows** (Claude, GitHub Copilot, GitLab Duo) to accelerate test script authoring and CI reporting.
-- **Tech Stack:** `Playwright` `TypeScript` `Python` `node.js`
+  - Leveraged **AI coding workflows** (Claude, GitHub Copilot, GitLab Duo) and **n8n** to accelerate test script authoring and CI reporting.
+- **Tech Stack:** `Playwright` `Appium` `WebdriverIO` `TypeScript` `Android Studio` `PostgreSQL` `Postman` `Docker` `Jenkins` `n8n`
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Test Automation & QA:** Playwright (TypeScript/JavaScript), Python `unittest`, E2E Testing, Regression Testing, Exploratory Testing, Defect Triage & Root Cause Analysis
+- **Test Automation & QA:** Playwright (TypeScript/JavaScript), Appium, WebdriverIO, Python `unittest`, Web & Mobile E2E Testing, Regression Testing, Exploratory Testing, Defect Triage & Root Cause Analysis
 - **API, Backend & Web:** REST APIs, Postman, `curl`, Python, Flask, SQL (PostgreSQL), JSON Validation, HTML/CSS
 - **Programming Languages:** TypeScript, JavaScript, Python, SQL
 - **AI & Workflow Automation:** Claude, GitHub Copilot, Gemini, GitLab Duo, n8n Workflows, Prompt Engineering, LLM Evaluation
-- **DevOps & CI/CD:** GitLab CI/CD, Git/GitHub, Jenkins, Docker, Jira
+- **DevOps, Environments & CI/CD:** GitLab CI/CD, Git/GitHub, Jenkins, Docker, Android Studio, Jira
 - **Accessibility & Compliance:** WCAG 2.1 AA & WCAG 2.2 Audits, AEM Page Accessibility, AI PDF Accessibility Testing
 
 ---
@@ -89,6 +90,9 @@ Passionate about integrating **AI coding tools** (Claude, GitHub Copilot, Gemini
   </a>
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40" />
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
