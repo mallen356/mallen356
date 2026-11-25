@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michael Allen</h1>
-<h3 align="center">QA Engineer II | QA Automation Engineer & SDET </h3>
+<h3 align="center">QA Engineer II | QA Automation Engineer | SDET </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=c9a84c&style=flat" alt="mallen356" />
