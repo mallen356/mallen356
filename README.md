@@ -1,19 +1,13 @@
 <h1 align="center">Hi, I'm Michael Allen</h1>
 <h3 align="center">QA Engineer II | QA Automation Engineer & SDET | AI Automation Specialist</h3>
 
-<p align="center">
-  <a href="https://mallen356.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-c9a84c?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
-  </a>
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mallen356&label=Profile%20views&color=c9a84c&style=flat" alt="mallen356" />
 </p>
 
 ---
 
-**QA Automation Engineer (SDET)** with 3+ years of hands-on experience in hybrid manual and automated testing across enterprise web and mobile applications. Specialized in building and maintaining scalable **Playwright** (web) and **Appium / WebdriverIO** (mobile) UI, E2E, and regression suites in **TypeScript**, integrated into **GitLab CI/CD** pipelines to gate merge requests and cut manual regression effort by over 50%.
+**QA Engineer II & QA Automation Engineer (SDET)** with 3+ years of hands-on experience in hybrid manual and automated testing across enterprise web and mobile applications. Specialized in building and maintaining scalable **Playwright** (web) and **Appium / WebdriverIO** (mobile) UI, E2E, and regression suites in **TypeScript**, integrated into **GitLab CI/CD** pipelines to gate merge requests and cut manual regression effort by over 50%.
 
 Skilled in **Python, Flask, PostgreSQL, Android Studio, and REST API validation** using Postman, `curl`, and Python `unittest`. Recently completed the **IBM AI Developer Professional Certificate**, building generative AI applications with Python/Flask REST endpoints and automated unit test suites.
 
@@ -118,7 +112,6 @@ Passionate about integrating **AI coding tools** (Claude, GitHub Copilot, Gemini
 
 ### 📫 Let's Connect
 
-- **Portfolio:** [mallen356.github.io/Portfolio](https://mallen356.github.io/Portfolio/)
 - **LinkedIn:** [linkedin.com/in/michael-allen356](https://www.linkedin.com/in/michael-allen356)
 - **Upwork:** [AI Automation Specialist](https://www.upwork.com/freelancers/~01d7ce0d19d066fa30)
 - **Email:** Michaelallen3567@gmail.com
